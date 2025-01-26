@@ -8,13 +8,13 @@
 ## 使用说明
 https://wkdaily.cpolar.cn/archives/gc
 
-##
-查询镜像名：
-https://docker.fxxk.dedyn.io/
-https://hub.docker.com/
-举例镜像名：
-homeassistant/home-assistant:latest
-解压至后缀为tar
+## 举例
+查询镜像名：  
+https://docker.fxxk.dedyn.io/  
+https://hub.docker.com/  
+举例镜像名：  
+homeassistant/home-assistant:latest  
+解压至后缀为tar  
 
 ## 教学视频
 https://www.bilibili.com/video/BV1EZ421M7mL
